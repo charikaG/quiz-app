@@ -1,0 +1,7 @@
+.loginform{
+    border: 1px solid lightgray;
+    padding: 20px;
+    box-shadow: 20px 20px 50px grey;
+    margin-top: 100px;
+    background-color: lightgray;
+}
